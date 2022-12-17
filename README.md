@@ -1,6 +1,6 @@
 # Final Case
 ---------
-Türktelekom ve TRAI Veri bilimi analitiği bootcamp final case repository 
+Türktelekom ve TRAI Veri bilimi Analitiği Bootcamp Final Case Repository 
 --------
 
 **UK TRAFİC ACCIDENTS PROJECT
